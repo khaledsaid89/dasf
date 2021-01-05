@@ -9,7 +9,7 @@
   "author": "Predrag Stošić",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "discord.js": "^11.3.2",
     "get-youtube-id": "^1.0.0",
     "opusscript": "0.0.6",
